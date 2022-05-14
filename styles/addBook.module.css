@@ -1,0 +1,31 @@
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card{
+  
+    height: 420px;
+    background-color:#C62828;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    text-align: center!important;
+  
+  }
+  .card::before{
+    position: absolute;
+    height: 100%;
+    content: "";
+    top:-50%;
+    background-color:#EF5350;
+    transform: skewY(345deg);
+    transition:2s ease-in;
+  
+  }
+  .card:hover::before{
+    top:-70%;
+    transform: skewY(390deg);
+  }

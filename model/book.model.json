@@ -1,0 +1,17 @@
+[
+    {"id":"1","bookName":"JavaScript","bookPrice":"80$","descount":"10%"},
+    {"id":"2","bookName":"Angular","bookPrice":"80$","descount":"10%"},
+    {"id":"3","bookName":"Php","bookPrice":"80$","descount":"10%"},
+    {"id":"4","bookName":"React JS","bookPrice":"80$","descount":"10%"},
+    {"id":"5","bookName":"Next JS","bookPrice":"80$","descount":"10%"},
+    {"id":"6","bookName":"Node JS","bookPrice":"80$","descount":"10%"},
+    {"id":"7","bookName":"TypeScript","bookPrice":"80$","descount":"10%"},
+    {"id":"8","bookName":"BlockChain","bookPrice":"80$","descount":"10%"},
+    {"id":"9","bookName":"DotNet","bookPrice":"80$","descount":"10%"},
+    {"id":"10","bookName":"Laraval","bookPrice":"80$","descount":"10%"},
+    {"id":"11","bookName":"Vanila JS","bookPrice":"80$","descount":"10%"},
+    {"id":"12","bookName":"Html","bookPrice":"80$","descount":"10%"},
+    {"id":"13","bookName":"Css","bookPrice":"80$","descount":"10%"},
+    {"id":"14","bookName":"Bootstrap","bookPrice":"80$","descount":"10%"}
+
+]
